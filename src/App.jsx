@@ -3,8 +3,8 @@ import "./App.css";
 
 function App() 
 { 
-  const inputRef  = useRef(null); 
-  const resultRef = useRef(0); 
+  const inputRef            = useRef(null); 
+  const resultRef           = useRef(0); 
   const [result, setResult] = useState(0); 
  
   function plus(e) 
