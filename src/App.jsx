@@ -1,3 +1,6 @@
+// @author: Amir Armion
+// @version: V.01
+
 import { useState, useRef } from "react"; 
 import "./App.css";
 
